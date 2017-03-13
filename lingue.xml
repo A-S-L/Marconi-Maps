@@ -16,7 +16,6 @@
     <string nome="nome_progetto">Project name</string>
     <string nome="aula">Room</string>
     <string nome="partecipanti">Contesters</string>
-    <!-- Potremmo mettere un pannello con l'immagine. Secondo me esce meglio --><string nome="info">i</string>
     <string nome="impostazioni">Settings</string>
     <string nome="istruzioni">Instructions</string>
 	</English>
@@ -36,7 +35,6 @@
     <string nome="nome_progetto">Nome progetto</string>
     <string nome="aula">Aula</string>
     <string nome="partecipanti">Partecipanti</string>
-    <!-- Potremmo mettere un pannello con l'immagine. Secondo me esce meglio --><string nome="info">i</string>
     <string nome="impostazioni">Impostazioni</string>
     <string nome="istruzioni">Istruzioni</string>
 	</Italiano>
