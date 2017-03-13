@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lingue>
+	<English>
+    <string nome="scan_QR">Scan QR</string>
+    <string nome="progetti">Projects</string>
+    <string nome="schedule">Schedule</string>
+    <string nome="conf">Configurations</string>
+	</English>
+	<Italiano>
+		<string nome="scan_QR">Scannerizza QR</string>
+    <string nome="progetti">Progetti</string>
+    <string nome="schedule">Programmazione</string>
+    <string nome="conf">Impostazioni</string>
+	</Italiano>
+</Lingue>
