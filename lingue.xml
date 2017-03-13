@@ -31,7 +31,7 @@
     <string nome="piano_primo">Primo piano</string>
     <string nome="piano_secondo">Secondo piano</string>
 	<string nome="QR_code">QR code</string>
-    <string nome="inquadraQRaula">Inquadra il QR code dell'aula</string>
+    <string nome="inquadraQR">Inquadra il QR code dell'aula</string>
     <string nome="eventi_giornata">Eventi giornata</string>
     <string nome="nome_progetto">Nome progetto</string>
     <string nome="aula">Aula</string>
