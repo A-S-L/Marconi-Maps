@@ -5,11 +5,39 @@
     <string nome="progetti">Projects</string>
     <string nome="schedule">Schedule</string>
     <string nome="conf">Configurations</string>
+    <string nome="cerca">search...</string>
+    <string nome="piano_interrato">Underground floor</string>
+    <string nome="piano_terra">Ground floor</string>
+    <string nome="piano_primo">First floor</string>
+    <string nome="piano_secondo">Second floor</string>
+    <string nome="QR_code">QR code</string>
+    <string nome="inquadraQRaula">Center the QR code of the room</string>
+    <string nome="eventi_giornata">Today's schedule</string>
+    <string nome="nome_progetto">Project name</string>
+    <string nome="aula">Room</string>
+    <string nome="partecipanti">Contesters</string>
+    <!-- Potremmo mettere un pannello con l'immagine. Secondo me esce meglio --><string nome="info">i</string>
+    <string nome="impostazioni">Settings</string>
+    <string nome="istruzioni">Instructions</string>
 	</English>
 	<Italiano>
 		<string nome="scan_QR">Scannerizza QR</string>
     <string nome="progetti">Progetti</string>
     <string nome="schedule">Programmazione</string>
     <string nome="conf">Impostazioni</string>
+	<string nome="cerca">cerca</string>
+    <string nome="piano_interrato">Piano interrato</string>
+    <string nome="piano_terra">Piano terra</string>
+    <string nome="piano_primo">Primo piano</string>
+    <string nome="piano_secondo">Secondo piano</string>
+	<string nome="QR_code">QR code</string>
+    <string nome="inquadraQRaula">Inquadra il QR code dell'aula</string>
+    <string nome="eventi_giornata">Eventi giornata</string>
+    <string nome="nome_progetto">Nome progetto</string>
+    <string nome="aula">Aula</string>
+    <string nome="partecipanti">Partecipanti</string>
+    <!-- Potremmo mettere un pannello con l'immagine. Secondo me esce meglio --><string nome="info">i</string>
+    <string nome="impostazioni">Impostazioni</string>
+    <string nome="istruzioni">Istruzioni</string>
 	</Italiano>
 </Lingue>
